@@ -2,7 +2,7 @@
 
 **`Analista de testes`**
 
-### Me chamo Leonardo Laurindo Szarblewski, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Engenharia de Software pela Uniasselvi.
+### Me chamo Leonardo Laurindo Szarblewski, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Análise e desenvolvimento de sistemas pela Uniasselvi.
 ---
 
 ## 🤖 Linguagens e Tecnologias
